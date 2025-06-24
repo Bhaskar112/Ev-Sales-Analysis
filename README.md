@@ -1,11 +1,9 @@
 # EV Sales Data Analysis
 ## Problem Statement:
 
-<p>This dataset contains detailed records of coffee sales from a vending machine.The dataset spans from March 2024 to Present time, capturing daily transaction data. In this notebook, we are going to use EDA to discover the customer's
-purchasing patterns and sales trends which can aid in the inventory planning.<p>
-
+You can find the problem statement document in the following link:https://drive.google.com/file/d/1STgPc5zfZbpEBPphhoWNixcvxk9Rav71/view?usp=drivesdk
 ## Data set:
-You can find the data set in the given link: https://drive.google.com/file/d/1iH93s788NY0CEFZdLYplijfOYKNJQuwh/view?usp=sharing
+You can find the data set in the given link: https://drive.google.com/file/d/1aPvY3LcYWkX64ybgY5wbwlDCV2j5BWyr/view?usp=drivesdk
 
 ## Approach 
 <p>The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.</p>
