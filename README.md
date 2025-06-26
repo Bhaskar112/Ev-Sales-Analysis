@@ -1,7 +1,7 @@
 # EV Sales Data Analysis
 ## Problem Statement:
 
-You can find the problem statement document in the following link:https://drive.google.com/file/d/1STgPc5zfZbpEBPphhoWNixcvxk9Rav71/view?usp=drivesdk
+You can find the problem statement document in the following link: https://drive.google.com/file/d/1STgPc5zfZbpEBPphhoWNixcvxk9Rav71/view?usp=drivesdk
 ## Data set:
 You can find the data set in the given link: https://drive.google.com/file/d/1aPvY3LcYWkX64ybgY5wbwlDCV2j5BWyr/view?usp=drivesdk
 
